@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustercetch",
+        "uuid": 7001280,
+        "checksum": "i6l6uw"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
